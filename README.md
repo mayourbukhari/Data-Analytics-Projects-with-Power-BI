@@ -38,9 +38,20 @@ Feel free to explore the code, datasets, and visualizations. Your feedback, sugg
 3. Open the project file in Power BI Desktop.
 4. Explore and analyze the data using the interactive dashboards.
 
+
 ## Feedback
 
 I appreciate your interest! If you have any questions, suggestions, or feedback, feel free to [open an issue](https://github.com/mayourbukhari/Data-Analytics-Projects-with-Power-BI/issues).
 
-Happy exploring!
+### Get in Touch 
+Your feedback means the world to me! Reach out via
+
+[![Youtube](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@PossibleCode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-mohsin-bukhari/)
+[![Mail](https://img.shields.io/badge/Mail-Contact-informational?style=for-the-badge&logo=gmail)](mailto:smayour82@gmail.com)
+
+Let's connect, collaborate, and create something extraordinary.
+
+Thank you for visiting, and enjoy your journey through my digital realm! 🌐
+
 
